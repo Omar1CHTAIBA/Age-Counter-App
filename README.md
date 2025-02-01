@@ -1,4 +1,4 @@
-#Age App
+#Age_App
 This is a simple GUI-based Age App built with PyQt6. The app allows users to input their age and then displays detailed information about how long they've lived, including:
 
 Total months
